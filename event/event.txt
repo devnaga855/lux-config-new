@@ -25,7 +25,7 @@
     "idgame": 32,
     "name": "Nhiệm vụ",
     "title": "Nhiệm vụ",
-    "onoff": "IS_NHIEM_VU",
+    "onoff": "IS_BO",
     "time": "Diễn ra vào các ngày trong tuần",
     "content": "- Hũ thưởng sẽ được cộng vào số dư của bạn",
     "giaithuong": "- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
