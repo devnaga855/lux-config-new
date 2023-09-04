@@ -267,17 +267,17 @@
     "doituong": "Người chơi game Mậu Binh bằng LUX"
   },
   {
-    "idgame": 8,
-    "name": "Thành Rome",
-    "title": "X8 Hũ Thành Rome",
-    "time": "00:00 Thứ Hai Hàng Tuần",
-    "content": "Vào 00:00' Thứ Hai hàng tuần, Thành Rome sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
-    "giaithuong": "- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
-    "luuy": "Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000\nUser nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 7 + 30.000 = 4.330.000\n\n- Ví dụ phòng 1000 user nổ hũ X3. Giá trị hũ đang là 6.200.000\nUser nổ hũ x8 và giải thưởng payline là 200.000\nTổng tiền user nhận được:\n6.200.000 + 5.000.000 x 2 + 200.000 = 16.400.000\n\n- Ví dụ phòng 5000 user nổ hũ X2. Giá trị hũ đang là 28.800.000\nUser nổ hũ x8 và giải thưởng payline là 300.000\nTổng tiền user nhận được:\n28.800.000 + 25.000.000 + 300.000 = 54.100.000",
-    "doituong": "Người chơi Thành Rome bằng LUX"
-  },
+      "idgame": 8,
+      "name": "X6 Hũ",
+      "title": "X6 Hũ",
+      "time": "00:00 Thứ 3,Thứ 4,Thứ 5,Thứ 6,Thứ 7 Hàng Tuần",
+      "content": "Siêu Anh Hùng , Slot Vương Quốc Lux, Slot Quỷ Địa Ngục, Slot Viking, SLot Thần Sấm, Slot Mỏ Đá Quý sẽ X6 Hũ mức cược 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 10.000 như sau:",
+      "giaithuong": "- Phòng 100: 5 hũ x6, cách 5 hũ sẽ có 1 hũ x6.\n- Phòng 1.000: 2 hũ x3, Hũ thứ 2 và hũ thứ 6 sẽ x3\n- Phòng 10.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
+      "luuy": "Cách tính thưởng:\n- Nổ hũ X6 = Số tiền Hũ hiện tại + 5 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X6. Giá trị hũ đang là 800.000 User nổ hũ x6 và giải thưởng payline là 30.000\nTổng tiền user nhận được: 800.000 + 500.000 x 5 + 30.000 = 3.330.000",
+      "doituong": "Người chơi Slot Siêu Anh Hùng , Slot Vương Quốc Lux, Slot Quỷ Địa Ngục, Slot Viking, SLot Thần Sấm, Slot Mỏ Đá Quý bằng LUX"
+    }
 
- 
+
   {
     "idgame": 41,
     "name": "Nạp May Mắn",
