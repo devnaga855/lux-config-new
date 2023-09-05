@@ -276,8 +276,6 @@
       "luuy": "Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000 User nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được: 800.000 + 500.000 x 7 + 30.000 = 4.330.000",
       "doituong": "Người chơi Slot Siêu Anh Hùng , Slot Vương Quốc Lux, Slot Quỷ Địa Ngục, Slot Viking, SLot Thần Sấm, Slot Mỏ Đá Quý bằng LUX"
     },
-
-
   {
     "idgame": 41,
     "name": "Nạp May Mắn",
@@ -299,5 +297,5 @@
       "giaithuong": "Tổng giải thưởng Hộp quà may mắn có giá trị lên tới 500k LUX",
       "luuy": "- Hệ thống sẽ chỉ ghi nhận số tiền cược trong ngày với mỗi phần quà. Đến 00h00 ngày hôm sau số tiền cược sẽ được reset lại\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công",
       "doituong": "Dành cho tất cả người chơi tại cổng game"
-    },
+    }
 ]
