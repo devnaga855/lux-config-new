@@ -288,5 +288,16 @@
     "giaithuong": "- Hình thức nạp thẻ:\n+ Giao dịch nạp $ thông qua thẻ cào có 2 số cuối của mã giao dịch là 86 sẽ nhận khuyến mãi thêm 10% giá trị thẻ nạp.\n* Yêu Cầu: Mệnh giá thẻ cào trị giá từ 50.000 trở lên\n\n- Hình thức Momo và Bank trực tiếp\n+ Giao dịch nạp $ qua MOMO và Bank trực tiếp có 2 số cuối của mã giao dịch là 86 được thưởng như sau\n* Yêu Cầu: Từ 100.000 đến dưới 500.000 khuyến mãi 10%. Từ 500.000 trở lên khuyến mãi 20%, thưởng tối đa 1.000.000.\n\n - Với giao dịch nạp bất kỳ qua 1 trong 3 thể loại nạp có 3 số đuôi mã giao dịch là 868 sẽ được thưởng 30% giá trị nạp (yêu cầu mệnh giá từ 100.000 trở lên). Thưởng tối đa 1.500.000\n\n- Đặc biêt, giao dịch nạp bất kỳ qua 1 trong 3 thể loại nạp có 4 số đuôi mã giao dịch là 8686 sẽ được thưởng ngay 5.000.000",
     "luuy": "- 1 người chỉ trúng 1 giải lớn nhất.\n- VD: khi trúng giải 4 số 8686 thì sẽ chỉ nhận được 5M và sẽ không được nhận thưởng các giải còn lại.",
     "doituong": "Dành cho tất cả người chơi trên cổng game."
-  }
+  },
+  {
+      "idgame": 46,
+      "name": "HỘP QUÀ MAY MẮN",
+      "title": "HỘP QUÀ MAY MẮN",
+      "time": "Diễn ra trong 7 ngày kể từ ngày đăng kí bảo mật( tính từ 00h00 ngày 9/11 )",
+      "onoff": "IS_LUCKY_BOX",
+      "content": "- Nhằm tri ân những người chơi đã gắn bó với cổng game trong suốt thời gian qua, NPH xin được gửi tặng đến người chơi những Hộp quà May Mắn.\n- Chỉ cần đạt đủ tiền cược trong ngày khi chơi các game trên cổng game( trừ Thần Biển, game Bài, bóng 88 )người chơi sẽ có cơ hội nhận Hộp quà.\n- Giá trị phần thưởng mỗi hộp quà trong từng ngày là khác nhau. Vậy nên điều kiện tiền cược tương ứng với mỗi hộp quà cũng sẽ khác nhau",
+      "giaithuong": "Tổng giải thưởng Hộp quà may mắn có giá trị lên tới 500k LUX",
+      "luuy": "- Hệ thống sẽ chỉ ghi nhận số tiền cược trong ngày với mỗi phần quà. Đến 00h00 ngày hôm sau số tiền cược sẽ được reset lại\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công",
+      "doituong": "Dành cho tất cả người chơi tại cổng game"
+    },
 ]
