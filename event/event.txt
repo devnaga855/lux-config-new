@@ -289,8 +289,8 @@
   },
   {
       "idgame": 46,
-      "name": "HỘP QUÀ MAY MẮN",
-      "title": "HỘP QUÀ MAY MẮN",
+      "name": "Hộp quà may mắn",
+      "title": "Hộp quà may mắn",
       "time": "Diễn ra trong 7 ngày kể từ ngày đăng kí bảo mật( tính từ 00h00 ngày 9/11 )",
       "onoff": "IS_LUCKY_BOX",
       "content": "- Nhằm tri ân những người chơi đã gắn bó với cổng game trong suốt thời gian qua, NPH xin được gửi tặng đến người chơi những Hộp quà May Mắn.\n- Chỉ cần đạt đủ tiền cược trong ngày khi chơi các game trên cổng game( trừ Thần Biển, game Bài, bóng 88 )người chơi sẽ có cơ hội nhận Hộp quà.\n- Giá trị phần thưởng mỗi hộp quà trong từng ngày là khác nhau. Vậy nên điều kiện tiền cược tương ứng với mỗi hộp quà cũng sẽ khác nhau",
