@@ -203,7 +203,7 @@
     "time": "0:00:00 đến 23:59:59 hàng ngày",
     "content": "Trong suốt thời gian diễn ra sự kiện, người chơi có:\n- Số ván ăn được Tôm liên tiếp nhiều nhất sẽ nhận được phần thưởng.\n\nTiêu Chí Xếp Hạng:\n- Tổng số tôm người chơi thắng được trong chuỗi thắng liên tiếp.\n- Độ dài của chuỗi thắng liên tiếp.\n- Tổng LUX Thắng.\n- Tổng LUX đặt\n- Thời gian.",
     "giaithuong": " Top1: 1.000.000 LUX.\n Top2: 500.000 LUX.\n Top3: 200.000 LUX.\n Top4-5: 100.000 LUX ",
-    "luuy": "- Phần thưởng sẽ được trao vào 3:00:00 ngày kế tiếp.\n- Một tài khoản chỉ có thể nhận được 1 phần thưởng duy nhất trong ngày.\n- Trong trường hợp có tranh chấp, Quyết định của BTC là quyết định \ncuối cùng.",
+    "luuy": "- Phần thưởng sẽ được trao vào 03:00 ngày kế tiếp.\n- Một tài khoản chỉ có thể nhận được 1 phần thưởng duy nhất trong ngày.\n- Trong trường hợp có tranh chấp, Quyết định của BTC là quyết định \ncuối cùng.",
     "doituong": "Tất cả những người chơi minigame Bầu Cua bằng LUX trên LUX"
   },
   {
