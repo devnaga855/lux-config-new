@@ -133,8 +133,8 @@
   },
   {
     "idgame": 26,
-    "name": "X3 nạp",
-    "title": "X3 nạp",
+    "name": "X2 nạp",
+    "title": "X2 nạp",
     "time": "Hàng ngày",
     "onoff": "IS_EVENT_X2NAP",
     "content": "- Nhận thưởng 200% LUX nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 LUX\n-Áp dụng cho tất cá các hình thức nạp: Nạp qua thẻ, Nạp qua Ngân hàng, Nạp qua ví điện tử trong lần đầu.",
