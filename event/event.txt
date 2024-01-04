@@ -168,6 +168,7 @@
     "idgame": 29,
     "name": "Rung cây",
     "title": "RUNG CÂY MOMO",
+    "onoff": "IS_BO",
     "time": "Từ 00:00 ngày 04/01 đến 23:59 ngày 08/01.",
     "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp LUX qua\nĐẠI LÝ sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
     "giaithuong": "- 3 lượt quay free Avengers\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Thần Tài\n- 3 lượt quay free Thành Rome\n- 3 lượt quay free Thành Rome\n- Và các giải thưởng LUX như: 50K,100K,250K,500K,1100K,2600K",
