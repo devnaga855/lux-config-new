@@ -147,7 +147,7 @@
     "name": "Đua top vippoint",
     "title": "Đua top vippoint",
     "onoff": "IS_VP_EVENT",
-    "time": "Từ 00:00 ngày 07/12 đến 23:59 ngày 27/12",
+    "time": "Từ 00:00 ngày 07/01 đến 23:59 ngày 27/01",
     "content": "- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 3.000 VIP Point trở lên.\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
     "giaithuong": "- Top 1: Yamaha MT 09 – trị giá 300m\n- Top 2: SH 150 2021 – 130m\n- Top 3: MacBook Pro M1 - 40m\n- Top 4: Honda Vision - 30m\n- Top 5: Samsung S21 Ultra 5G – 20m\n- Top 6: 10m LUX\n- Top 7: 5m LUX\n- Top 8: 4m LUX\n- Top 9: 3m LUX\n- Top 10: 2m LUX\n- Top 11-15: 1.5m LUX\n- Top 16-20: 1m LUX\n- Top 21-50: 500k LUX",
     "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng LUX sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
