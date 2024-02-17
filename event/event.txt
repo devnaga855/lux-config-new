@@ -166,7 +166,7 @@
   },
   {
     "idgame": 29,
-    "name": "Nạp ban rút lì xì",
+    "name": "Nạp bank rút lì xì",
     "title": "NẠP BANK RÚT LÌ XÌ",
     "onoff": "IS_RUNG_CAY",
     "time": "Từ 00:00 ngày 16/02 đến 23:59 ngày 20/02.",
