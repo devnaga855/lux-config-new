@@ -167,7 +167,7 @@
   {
     "idgame": 29,
     "name": "Rung cây nạp bank",
-    "title": "Rung cây nạp bank
+    "title": "Rung cây nạp bank",
     "onoff": "IS_RUNG_CAY",
     "time": "Từ 00:00 ngày 05/04 đến 23:59 ngày 09/04.",
     "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp LUX qua bank sẽ nhận được số lần rút lì xì.\n- Sau khi nhận lì xì khách hàng chắc chắn sẽ nhận được quà.",
