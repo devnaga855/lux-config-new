@@ -180,7 +180,7 @@
     "name": "Thánh tài xỉu",
     "title": "Thánh tài xỉu",
     "onoff": "IS_VUA_TAI_XIU",
-    "time": "Từ 00h00 ngày 09/06 đến 23h59 ngày 13/06",
+    "time": "Từ 00h00 ngày 23/06 đến 23h59 ngày 27/06",
     "content": "- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ LUX trong thời gian vừa qua, NPH LUX chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô\ncùng giá trị.",
     "giaithuong": "- Top 1: 5.000.000 LUX\n- Top 2: 1.500.000 LUX\n- Top 3: 1.000.000 LUX\n- Top 4: 500.000 LUX\n- Top 5: 300.000 LUX",
     "luuy": "- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn LUX từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số LUX thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng LUX sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
