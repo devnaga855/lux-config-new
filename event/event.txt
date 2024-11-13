@@ -166,11 +166,11 @@
   },
   {
     "idgame": 29,
-    "name": "Rung cây nạp bank",
-    "title": "Rung cây nạp bank",
+    "name": "Rung cây nạp momo",
+    "title": "Rung cây nạp momo",
     "onoff": "IS_RUNG_CAY",
-    "time": "Từ 00:00 ngày 06/11 đến 23:59 ngày 10/11.",
-    "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp MAN qua bank sẽ nhận được số lần rút lì xì.\n- Sau khi nhận lì xì khách hàng chắc chắn sẽ nhận được quà.",
+    "time": "Từ 00:00 ngày 13/11 đến 23:59 ngày 17/11.",
+    "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp MAN qua momo sẽ nhận được số lần rút lì xì.\n- Sau khi nhận lì xì khách hàng chắc chắn sẽ nhận được quà.",
     "giaithuong": "- 3 lượt quay free Avengers\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Thần Tài\n- 3 lượt quay free Thành Rome\n- 3 lượt quay free Thành Rome\n- Và các giải thưởng MAN như: 50K,100K,250K,500K,1100K,2600K",
     "luuy": "- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số MAN tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số MAN nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp HŨ: 1.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 2.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 5.000K Số lần rung cây: 3\n+ Tích nạp HŨ: 10.000K Số lần rung cây: 4",
     "doituong": "Tất cả các khách hàng tham gia chơi MAN trên cổng game MANVIP.CLUB"
