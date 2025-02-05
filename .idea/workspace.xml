@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6628b30-600e-4f21-9d6a-6831cd07b889" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/event/event.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="160" column="41" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Huto</find>
+      <find>Hũ</find>
+      <find>tr HŨ</find>
+      <find>0 HŨ</find>
+      <find>x3 LUX</find>
+      <find>HŨ</find>
+      <find>bằng HŨ</find>
+      <find>bằng Hũ</find>
+      <find>hũ</find>
+      <find>0 Hũ</find>
+      <find>LỘC</find>
+      <find>X3</find>
+      <find>bằng Na</find>
+      <find>&quot;idgame&quot;: 44</find>
+      <find>x3</find>
+      <find>&quot;idgame&quot;: 21</find>
+      <find>Đua Top</find>
+      <find>VUA</find>
+      <find>MOMO</find>
+      <find>RUNG</find>
+      <find>Momo</find>
+      <find>Thánh</find>
+      <find>Vua</find>
+      <find>LUX</find>
+      <find>game MAN</find>
+      <find>trên Man</find>
+      <find>ĐUA TOP</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LUX</replace>
+      <replace>0 LUX</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/event/event.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/lux-config-new.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1680" />
+    <option name="height" value="914" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lux-config-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lux-config-new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lux-config-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lux-config-new" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6628b30-600e-4f21-9d6a-6831cd07b889" name="Default Changelist" comment="" />
+      <created>1690037615088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690037615088</updated>
+      <workItem from="1690037617608" duration="721000" />
+      <workItem from="1690038939159" duration="585000" />
+      <workItem from="1690039970396" duration="237000" />
+      <workItem from="1692786161008" duration="1395000" />
+      <workItem from="1693788800445" duration="7378000" />
+      <workItem from="1695649989238" duration="892000" />
+      <workItem from="1695781694798" duration="1275000" />
+      <workItem from="1697767997647" duration="569000" />
+      <workItem from="1698978096146" duration="1397000" />
+      <workItem from="1699236819894" duration="207000" />
+      <workItem from="1701564659747" duration="2859000" />
+      <workItem from="1703298484104" duration="459000" />
+      <workItem from="1704153529739" duration="187000" />
+      <workItem from="1704332054818" duration="2568000" />
+      <workItem from="1704587340555" duration="1797000" />
+      <workItem from="1705662968171" duration="537000" />
+      <workItem from="1706064367386" duration="67000" />
+      <workItem from="1706833939897" duration="91000" />
+      <workItem from="1707009118275" duration="1190000" />
+      <workItem from="1708042168302" duration="1519000" />
+      <workItem from="1708237822369" duration="421000" />
+      <workItem from="1709427842659" duration="269000" />
+      <workItem from="1709516660476" duration="101000" />
+      <workItem from="1709598258519" duration="798000" />
+      <workItem from="1709860491118" duration="298000" />
+      <workItem from="1710208009083" duration="456000" />
+      <workItem from="1710812862499" duration="314000" />
+      <workItem from="1711156045075" duration="615000" />
+      <workItem from="1711412996724" duration="269000" />
+      <workItem from="1711934430037" duration="46000" />
+      <workItem from="1712279345193" duration="215000" />
+      <workItem from="1712364538776" duration="298000" />
+      <workItem from="1712493260066" duration="343000" />
+      <workItem from="1712556180501" duration="573000" />
+      <workItem from="1712990766009" duration="545000" />
+      <workItem from="1713493161587" duration="242000" />
+      <workItem from="1713840725755" duration="77000" />
+      <workItem from="1714100126315" duration="405000" />
+      <workItem from="1714179984204" duration="4000" />
+      <workItem from="1714842663107" duration="576000" />
+      <workItem from="1715592939476" duration="447000" />
+      <workItem from="1716079804903" duration="854000" />
+      <workItem from="1716774370289" duration="366000" />
+      <workItem from="1717551880026" duration="497000" />
+      <workItem from="1717923625057" duration="361000" />
+      <workItem from="1718261228406" duration="64000" />
+      <workItem from="1718760558638" duration="386000" />
+      <workItem from="1719117488963" duration="82000" />
+      <workItem from="1719372010886" duration="575000" />
+      <workItem from="1720580662130" duration="270000" />
+      <workItem from="1720720118407" duration="65000" />
+      <workItem from="1722090267484" duration="57000" />
+      <workItem from="1722934102285" duration="56000" />
+      <workItem from="1723782771833" duration="65000" />
+      <workItem from="1724031824089" duration="99000" />
+      <workItem from="1724377174756" duration="511000" />
+      <workItem from="1725165873726" duration="49000" />
+      <workItem from="1725422581217" duration="595000" />
+      <workItem from="1725943839858" duration="378000" />
+      <workItem from="1725953238888" duration="1230000" />
+      <workItem from="1726192803991" duration="518000" />
+      <workItem from="1726711174543" duration="682000" />
+      <workItem from="1727053934413" duration="277000" />
+      <workItem from="1727320357526" duration="154000" />
+      <workItem from="1728182140629" duration="364000" />
+      <workItem from="1728780082908" duration="149000" />
+      <workItem from="1729386948836" duration="256000" />
+      <workItem from="1729681333236" duration="356000" />
+      <workItem from="1730022764755" duration="1786000" />
+      <workItem from="1730853149559" duration="222000" />
+      <workItem from="1731312106725" duration="327000" />
+      <workItem from="1731466805929" duration="287000" />
+      <workItem from="1732277181778" duration="614000" />
+      <workItem from="1732673854492" duration="123000" />
+      <workItem from="1733440970859" duration="360000" />
+      <workItem from="1733886050097" duration="99000" />
+      <workItem from="1734072098924" duration="72000" />
+      <workItem from="1734741460272" duration="72000" />
+      <workItem from="1735268217998" duration="246000" />
+      <workItem from="1735391432999" duration="424000" />
+      <workItem from="1736132716062" duration="131000" />
+      <workItem from="1736558839701" duration="246000" />
+      <workItem from="1736821542174" duration="57000" />
+      <workItem from="1737451111395" duration="111000" />
+      <workItem from="1737771697937" duration="111000" />
+      <workItem from="1737771845509" duration="7000" />
+      <workItem from="1738726855042" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48513000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1680" height="914" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4059829" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="GraphQL" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="RNConsole" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config_api.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/event.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="160" column="41" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
