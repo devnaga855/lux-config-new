@@ -147,7 +147,7 @@
     "name": "Đua top vippoint",
     "title": "Đua top vippoint",
     "onoff": "IS_VP_EVENT",
-    "time": "Từ 00:00 ngày 06/01 đến 23:59 ngày 26/01",
+    "time": "Từ 00:00 ngày 05/02 đến 23:59 ngày 25/02",
     "content": "- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 5.000 VIP Point trở lên.\n Để đạt TOP 2 người chơi cần ít nhất 2.000 VIP POINT trở lên\n Để đạt TOP 3 - 10 người chơi cần ít nhất 500 điểm VIP POINT trở lên\n Để đạt TOP 50 người chơi cần ít nhất 50 điểm VIP POINT trở lên\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
     "giaithuong": "- Top 1: Honda CBR650R – trị giá 300m\n- Top 2: Sh 160i 2024 – 130m\n- Top 3: Macbook Pro M2 - 40m\n- Top 4: Iphone 15 Pro Max - 30m\n- Top 5: Samsung Galaxy S23 Ultra – 20m\n- Top 6: 10m MAN\n- Top 7: 5m MAN\n- Top 8: 4m MAN\n- Top 9: 3m MAN\n- Top 10: 2m MAN\n- Top 11-15: 1.5m MAN\n- Top 16-20: 1m MAN\n- Top 21-50: 500k MAN",
     "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng MAN sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
